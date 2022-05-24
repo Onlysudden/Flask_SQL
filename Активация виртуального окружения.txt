@@ -1,0 +1,1 @@
+C:\Python310\Projects\Flask_SQL\env\Scripts\activate.bat
