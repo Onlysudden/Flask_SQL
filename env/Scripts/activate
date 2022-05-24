@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Python310\Projects\Test exercise\env"
+VIRTUAL_ENV="C:\Python310\Projects\Flask_SQL\env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
